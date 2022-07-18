@@ -5,5 +5,6 @@ Library    Collections
  
 
 *** Test Cases ***
-Jenkins Git Jira
+Jenkins Git Jira 
+     [Tags]    Test1
      Log   First Test
